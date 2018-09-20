@@ -1,0 +1,219 @@
+    1  
+    2  git fetch [remote]
+    3  git remote -v
+    4  cd
+    5  cd e:
+    6  cd
+    7  cd e:
+    8  cd ..
+    9  cd ..
+   10   cd
+   11  pwd
+   12  ls(ll)
+   13  ls(ll)
+   14  cd e:
+   15  ls(ll)
+   16  ll
+   17  touch
+   18  touch 老九个touch
+   19  touch 老九哥的文件.txt
+   20  rm 老九哥的文件.txt
+   21  mkdir 老九哥的文件也
+   22  rm -r 老九哥的文件也
+   23  reset
+   24  history
+   25  ckear
+   26  clear
+   27  help
+   28  history
+   29  clear
+   30  exit
+   31  echo 你好 >> text.txt
+   32  cd e:
+   33  echo 你好 >> text.txt
+   34  rm text.txt
+   35  eixt
+   36  exit
+   37  git config -l
+   38  cd E:
+   39  mkdir 项目发布
+   40  cd 项目发布
+   41  mkdir MVC_and_AJAX
+   42  cd MVC_and_AJAX
+   43  git init
+   44  git add .
+   45  git commit -m "考试项目！"
+   46  git remote add liangjiong https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git
+   47  git push -u liangjiong master
+   48  git remote add liangjiong https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git
+   49  git push -u liangjiong master
+   50  cd E:
+   51   cd 项目发布
+   52  cd MVC_and_AJAX
+   53  git push -u liangjiong master
+   54  git pull --rebase liangjiong master
+   55  git push -u liangjiong master
+   56  echo "#mvc_ajax" >> README.md
+   57  git init
+   58  git add .
+   59  git commit -m "发布项目"
+   60  git remote add origin https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git
+   61  git push -u origin master
+   62  it pull --rebase origin master
+   63  git pull --rebase origin master
+   64  git push -u origin master
+   65  cd .. 
+   66   cd MVC_and_AJAX
+   67  gir init
+   68  git init
+   69  git add 9527@DESKTOP-TIKQLJ6 MINGW64 ~/Desktop
+   70  $ cd E:
+   71  9527@DESKTOP-TIKQLJ6 MINGW64 /e
+   72  $  cd 项目发布
+   73  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布
+   74  $ cd MVC_and_AJAX
+   75  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+   76  $ git push -u liangjiong master                                                 error: src refspec master does not match any.
+   77  error: failed to push some refs to 'https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git'
+   78  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+   79  $ git pull --rebase liangjiong master
+   80  fatal: Updating an unborn branch with changes added to the index.
+   81  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+   82  $ git push -u liangjiong master
+   83  error: src refspec master does not match any.
+   84  error: failed to push some refs to 'https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git'
+   85  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+   86  $ echo "#mvc_ajax" >> README.md
+   87  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX
+   88  $ git init
+   89  Initialized empty Git repository in E:/项目发布/MVC_and_AJAX/.git/
+   90  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+   91  $ git add .
+   92  warning: LF will be replaced by CRLF in Employee_AJAX/.idea/workspace.xml.
+   93  The file will have its original line endings in your working directory
+   94  warning: LF will be replaced by CRLF in Employee_AJAX/out/artifacts/Employee_AJAX_war_exploded/WEB-INF/web.xml.
+   95  The file will have its original line endings in your working directory
+   96  warning: LF will be replaced by CRLF in Employee_AJAX/out/artifacts/Employee_AJAX_war_exploded/index.jsp.
+   97  The file will have its original line endings in your working directory
+   98  warning: LF will be replaced by CRLF in Employee_AJAX/out/artifacts/Employee_AJAX_war_exploded/js/jquery-1.11.3.js.
+   99  The file will have its original line endings in your working directory
+  100  warning: LF will be replaced by CRLF in Employee_AJAX/out/artifacts/Employee_AJAX_war_exploded/js/pagination22/jquery.pagination2.2.js.
+  101  The file will have its original line endings in your working directory
+  102  warning: LF will be replaced by CRLF in Employee_AJAX/out/artifacts/Employee_AJAX_war_exploded/js/pagination22/pagination.css.
+  103  The file will have its original line endings in your working directory
+  104  warning: LF will be replaced by CRLF in Employee_AJAX/out/artifacts/Employee_AJAX_war_exploded/js/pagination22/readme.txt.
+  105  The file will have its original line endings in your working directory
+  106  warning: LF will be replaced by CRLF in Employee_AJAX/web/WEB-INF/web.xml.
+  107  The file will have its original line endings in your working directory
+  108  warning: LF will be replaced by CRLF in Employee_AJAX/web/index.jsp.
+  109  The file will have its original line endings in your working directory
+  110  warning: LF will be replaced by CRLF in Employee_AJAX/web/js/jquery-1.11.3.js.
+  111  The file will have its original line endings in your working directory
+  112  warning: LF will be replaced by CRLF in Employee_AJAX/web/js/pagination22/jquery.pagination2.2.js.
+  113  The file will have its original line endings in your working directory
+  114  warning: LF will be replaced by CRLF in Employee_AJAX/web/js/pagination22/pagination.css.
+  115  The file will have its original line endings in your working directory
+  116  warning: LF will be replaced by CRLF in Employee_AJAX/web/js/pagination22/readme.txt.
+  117  The file will have its original line endings in your working directory
+  118  warning: LF will be replaced by CRLF in Employee_MVC/.idea/workspace.xml.
+  119  The file will have its original line endings in your working directory
+  120  warning: LF will be replaced by CRLF in Employee_MVC/out/artifacts/Employee_MVC_war_exploded/WEB-INF/web.xml.
+  121  The file will have its original line endings in your working directory
+  122  warning: LF will be replaced by CRLF in Employee_MVC/out/artifacts/Employee_MVC_war_exploded/index.jsp.
+  123  The file will have its original line endings in your working directory
+  124  warning: LF will be replaced by CRLF in Employee_MVC/out/artifacts/Employee_MVC_war_exploded/js/jquery-1.11.3.min.js.
+  125  The file will have its original line endings in your working directory
+  126  warning: LF will be replaced by CRLF in Employee_MVC/out/artifacts/Employee_MVC_war_exploded/js/pagination22/jquery.pagination2.2.js.
+  127  The file will have its original line endings in your working directory
+  128  warning: LF will be replaced by CRLF in Employee_MVC/out/artifacts/Employee_MVC_war_exploded/js/pagination22/pagination.css.
+  129  The file will have its original line endings in your working directory
+  130  warning: LF will be replaced by CRLF in Employee_MVC/out/artifacts/Employee_MVC_war_exploded/js/pagination22/readme.txt.
+  131  The file will have its original line endings in your working directory
+  132  warning: LF will be replaced by CRLF in Employee_MVC/web/WEB-INF/web.xml.
+  133  The file will have its original line endings in your working directory
+  134  warning: LF will be replaced by CRLF in Employee_MVC/web/index.jsp.
+  135  The file will have its original line endings in your working directory
+  136  warning: LF will be replaced by CRLF in Employee_MVC/web/js/jquery-1.11.3.min.js.
+  137  The file will have its original line endings in your working directory
+  138  warning: LF will be replaced by CRLF in Employee_MVC/web/js/pagination22/jquery.pagination2.2.js.
+  139  The file will have its original line endings in your working directory
+  140  warning: LF will be replaced by CRLF in Employee_MVC/web/js/pagination22/pagination.css.
+  141  The file will have its original line endings in your working directory
+  142  warning: LF will be replaced by CRLF in Employee_MVC/web/js/pagination22/readme.txt.
+  143  The file will have its original line endings in your working directory
+  144  warning: LF will be replaced by CRLF in README.md.
+  145  The file will have its original line endings in your working directory
+  146  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  147  $ git commit -m "发布项目"
+  148  *** Please tell me who you are.
+  149  Run
+  150    git config --global user.email "you@example.com"
+  151    git config --global user.name "Your Name"
+  152  to set your account's default identity.
+  153  Omit --global to set the identity only in this repository.
+  154  fatal: unable to auto-detect email address (got '9527@DESKTOP-TIKQLJ6.(none)')
+  155  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  156  $ git remote add origin https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git
+  157  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  158  $ git push -u origin master
+  159  error: src refspec master does not match any.
+  160  error: failed to push some refs to 'https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git'
+  161  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  162  $ it pull --rebase origin master
+  163  bash: it: command not found
+  164  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  165  $ git pull --rebase origin master
+  166  fatal: Updating an unborn branch with changes added to the index.
+  167  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  168  $ git push -u origin master
+  169  error: src refspec master does not match any.
+  170  error: failed to push some refs to 'https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git'
+  171  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  172  $ cd ..
+  173  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布
+  174  $  cd MVC_and_AJAX
+  175  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX
+  176  $ gir init
+  177  bash: gir: command not found
+  178  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX
+  179  $ git init
+  180  Initialized empty Git repository in E:/项目发布/MVC_and_AJAX/.git/
+  181  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  182  $ git add
+  183  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)
+  184  9527@DESKTOP-TIKQLJ6 MINGW64 /e/项目发布/MVC_and_AJAX (master)c
+  185  cd e:
+  186  cd E:\项目发布\MVC_and_AJAX
+  187  cd 项目发布MVC_and_AJAX: No such file or directory 
+  188  cd 项目发布MVC_and_AJAX
+  189  cd 项目发布/MVC_and_AJAX
+  190  git init
+  191  git add .
+  192  git commit -m "第一次提交"
+  193  git remote add origin https://git.coding.net/DevilMayCry_bayonetta/MVC_and_AJAX.git
+  194  $ git push -u origin master
+  195  $ git push -u origin master
+  196  t push -u origin master
+  197  t push -u origin master
+  198  git push -u origin master
+  199  history >> history.txt
+  200  git add history.txt
+  201  git commit -m "历史纪录"
+  202  git push -u origin master
+  203  cd ..
+  204  mkdir TEST
+  205  echo "# Hollew LiangJiong" >> README.md
+  206  cd TEST
+  207  git init 
+  208  git add .
+  209  git commit -m "测试"
+  210  git remote add origt https://git.coding.net/DevilMayCry_bayonetta/test.git
+  211  git push -u origt master
+  212  cd e:
+  213  cd 项目发布
+  214  mkdir test
+  215  test2
+  216  mkdir test2
+  217  cd test2
+  218  git init
+  219  history >> history.txt
